@@ -7,7 +7,7 @@ CoolMoviesList is an engaging and user-friendly web application designed for mob
 ---
 
 <div align="center" >
-<img src="https://github.com/MateusAnderle/fleet-react-native/assets/100309091/9ac099c1-d4ad-435a-af46-6c159856a4e7" width="300">
+<img src="https://github.com/MateusAnderle/CoolMoviesList/assets/100309091/e6c065fa-730d-4bbf-ba70-6512429cab6b" width="300">
 </div>
 
 ---
